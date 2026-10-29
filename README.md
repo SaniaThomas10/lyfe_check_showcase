@@ -23,8 +23,8 @@ This showcase website highlights LYFE CHECK's features, design process, and deve
 
 This showcase website was built using:
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 The LYFE CHECK application itself is being developed using React, TypeScript, and a cloud-based backend.
